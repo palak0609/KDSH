@@ -1,0 +1,17 @@
+spacy
+sentence-transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+PyPDF2
+textstat
+transformers
+langchain
+faiss-cpu
+streamlit
+torch
+networkx
+plotly
+ollama
